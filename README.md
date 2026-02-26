@@ -36,7 +36,7 @@ APK: apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
 
 - Screenshots on failure
 - Video recording enabled
-- Mochawesome HTML report support
+- Spec
 
 ---
 

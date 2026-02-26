@@ -1,4 +1,4 @@
-# Cypress Automation Framework – SauceDemo
+# Appium Automation Framework – SauceDemo
 
 ## Overview
 
